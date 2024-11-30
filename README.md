@@ -1,6 +1,6 @@
 # fivem-greenscreener
 
-FORKED FROM [bentix](https://github.com/bentix)'s [fivem-greenscreener](https://github.com/bentix/fivem-greenscreener)
+FORKED FROM [bentix](https://github.com/bentix-cs)'s [fivem-greenscreener](https://github.com/Bentix-cs/fivem-greenscreener)
 
 This fork is modified to convert the images to a webp format.
 
